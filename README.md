@@ -9,5 +9,5 @@
 - [VR-AI-Experience](https://github.com/Ole-Marcus-Hansen/GGJ-MakeGPTLaugh) - A prototype made along our bachelor thesis using Unity
 - [RecipeRiot](https://github.com/Ole-Marcus-Hansen/GGJ-MakeGPTLaugh) - An app utilizing OpenAIs ChatCompletions to generate recipes
 - [Jellygame](https://github.com/Ole-Marcus-Hansen/jellygame) - A game engine framework made with Python
-- [SoftwareEngineering](https://github.com/Ole-Marcus-Hansen/GGJ-MakeGPTLaugh) - A project made with Java for a course in Software Engineering and Testing
+- [SoftwareEngineering](https://github.com/Ole-Marcus-Hansen/SoftwareEngineeringAndTesting) - A project made with Java for a course in Software Engineering and Testing
 - [.Net](https://github.com/Ole-Marcus-Hansen/GGJ-MakeGPTLaugh) - A project made for a course in .NET
